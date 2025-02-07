@@ -5,3 +5,4 @@ figures
 .DS_Store
 scribble.txt
 catboost_info
+presentation/__pycache__
